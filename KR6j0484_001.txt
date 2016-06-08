@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:27.191113
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說摩利支天菩薩陀羅尼經
 #+PROPERTY: CBETA_ID T21n1255a
 #+PROPERTY: ID KR6j0484
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1255a
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0484_T_000-0259b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0484_T_001-0259b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1255¶
-
- 《佛說摩利支天菩薩陀羅尼經》¶
+No. 1255¶
+《佛說摩利支天菩薩陀羅尼經》¶
 ¶
 大興善寺三藏沙門不空奉　詔譯¶
 
